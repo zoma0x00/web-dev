@@ -1,0 +1,3 @@
+db name -> student
+has tables -> student
+has three coulmns -> id - name - address 
